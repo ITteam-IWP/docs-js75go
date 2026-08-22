@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-3848pa.elecpaync.com/sitemap.xml
